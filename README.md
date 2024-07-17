@@ -1,3 +1,11 @@
+Técnologías utilizadas:
+ExpressJS
+ReactJS
+Patrón de arquitectura:
+MVC
+Base de datos:
+MySQL
+
 Requisitos para el funcionamiento del proyecto:
 1. Tener instalado Node.
 2. Tener instalado un servicio de SQL (xampp, wampserver, etc).
